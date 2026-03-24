@@ -1,0 +1,58 @@
+[
+  {
+    "Nombre": "Ana",
+    "Edad": 23,
+    "Ciudad": "Madrid",
+    "Salario": 50000,
+    "Departamento": "Tecnología"
+  },
+  {
+    "Nombre": "Luis",
+    "Edad": 35,
+    "Ciudad": "Barcelona",
+    "Salario": 60000,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Marta",
+    "Edad": 29,
+    "Ciudad": "Valencia",
+    "Salario": 55000,
+    "Departamento": "Tecnología"
+  },
+  {
+    "Nombre": "Juan",
+    "Edad": 40,
+    "Ciudad": "Madrid",
+    "Salario": 72000,
+    "Departamento": "Dirección"
+  },
+  {
+    "Nombre": "Carlos",
+    "Edad": 22,
+    "Ciudad": "Sevilla",
+    "Salario": 45000,
+    "Departamento": "Ventas"
+  },
+  {
+    "Nombre": "Laura",
+    "Edad": 28,
+    "Ciudad": "Barcelona",
+    "Salario": 58000,
+    "Departamento": "Marketing"
+  },
+  {
+    "Nombre": "Pedro",
+    "Edad": 30,
+    "Ciudad": "Valencia",
+    "Salario": 53000,
+    "Departamento": "Tecnología"
+  },
+  {
+    "Nombre": "Sofía",
+    "Edad": 26,
+    "Ciudad": "Madrid",
+    "Salario": 49000,
+    "Departamento": "Marketing"
+  }
+]
